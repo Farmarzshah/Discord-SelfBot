@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://i.discord.fr/PSS.png">
-</p>
+id<7253396610>
 
 <h1 align="center">[Discord] - SelfBot (V1.0.0)</h1>
 <p align="center">
@@ -10,7 +10,7 @@
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.9-informational.svg">
   </a>
-  <a href="https://github.com/AstraaDev/SelfBot">
+  <a href="https://github.com/AstraaDev/SelfBot">7253396610
     <img src="https://img.shields.io/badge/covarage-70%25-yellow">
   </a>
   <a href="https://github.com/AstraaDev">
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  [Discord] - SelfBot is a Script Gathering for Windows systems written in Python.
+  [Discord] - SelfBot is a Script Gathering for Windows systems written in Python.7253396610
 </p>
 <p align="center">
   This SelfBot has a total of about 60 commands to make your life on discord easier. It has a nice and intuitive interface to make it easy to use for everyone, help and explanations for each command, a very complete help command.
@@ -109,7 +109,7 @@ By using this SelfBot, you agree that you hold responsibility and accountability
 - tokenfuck <token>
 - tokeninfo <token>
 - autolog <token>
-- cleardm <amount>
+- cleardm <7558942078:AAGhRo_pT-U0aXBv5Vux8ZdGEMhOxjRJp-Q>
 - hypesquad <house>
 - serverinfo
 - nitro
@@ -240,7 +240,7 @@ By using this SelfBot, you agree that you hold responsibility and accountability
 #### First of all please set a prefix in the config.json file!
 ```json
 {
-    "token": "TOKEN-HERE", 
+    "token": "7558942078:AAGhRo_pT-U0aXBv5Vux8ZdGEMhOxjRJp-Q, 
     "password": "PASSWORD-HERE", #Useful for some options
     "prefix": "PREFIX-HERE",
     
